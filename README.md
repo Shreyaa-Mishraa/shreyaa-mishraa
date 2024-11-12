@@ -4,7 +4,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-mishra-089946282) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Postgres](https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 🖌 Creative
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
@@ -15,8 +25,11 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shreyaa-mishraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats 
+
+
+<div align="center">
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shreyaa-mishraa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa-mishraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
